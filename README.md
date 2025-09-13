@@ -1,2 +1,2 @@
-# Calibre-en-Espa-ol
+# Calibre-en-Español
 Dudas resueltas de calibre en español del grupo de telegram
