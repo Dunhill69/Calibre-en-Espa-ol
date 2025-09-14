@@ -4,3 +4,11 @@
 
 # Calibre-en-Español
 Dudas resueltas de calibre en español del grupo de telegram
+
+
+## 📚 Secciones del repositorio
+
+- [Apuntes](apuntes/) — Documentación técnica, guías y notas sobre Calibre.
+- [Scripts](scripts/) — Automatizaciones y herramientas CLI.
+- [Plugins](plugins/) — Desarrollo y adaptación de plugins para Calibre.
+- [Personalizaciones](personalizaciones/) — Ajustes visuales, configuraciones y hacks útiles.
