@@ -8,7 +8,7 @@ Dudas resueltas de calibre en español del grupo de telegram
 
 ## 📚 Secciones del repositorio
 
-- [Apuntes](apuntes/) — Documentación técnica, guías y notas sobre Calibre.
+- [Apuntes](apuntes/) — Documentación, guías, configuraciones y trucos útiles.
 - [Scripts](scripts/) — Automatizaciones y herramientas CLI.
-- [Plugins](plugins/) — Desarrollo y adaptación de plugins para Calibre.
-- [Personalizaciones](personalizaciones/) — Ajustes visuales, configuraciones y hacks útiles.
+- [Plugins](plugins/) — Recomendaciones de plugins para calibre.
+- [Personalizaciones](personalizaciones/) — Ajustes visuales.
